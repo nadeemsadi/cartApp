@@ -28,8 +28,9 @@
  #page_nav a, #sign_in a{
 	 line-height: 40px;
 	 color: #fff;
-	 padding: 0 40 0 40;
+	 padding: 10px 10px;
 	 text-decoration: none;
+	 
 	 
 	 
  }
